@@ -1,0 +1,12 @@
+Installation Git 
+
+https://github.com/byt3bl33d3r/CrackMapExec
+
+Guide 
+
+https://mpgn.gitbook.io/crackmapexec/getting-started/installation
+
+Simple Usage 
+
+./crackmapexec.py smb 10.10.10.97 --shares -u '' -p '' 
+
